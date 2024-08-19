@@ -40,6 +40,13 @@ Route::middleware('auth')->group(function () {
     Route::patch('/profile', [ProfileController::class, 'update'])->name('profile.update');
     Route::delete('/profile', [ProfileController::class, 'destroy'])->name('profile.destroy');
 
+    // Products
+    Route::resource('products', ProductController::class);
+    Route::delete('products/{product}/remove', [ProductController::class, 'remove'])->name('products.remove');
+    Route::post('products/{product}/addToOrder', [ProductController::class, 'addToOrder'])->name('products.order.add');
+    Route::post('products/{product}/removeFromOrder', [ProductController::class, 'removeFromOrder'])->name('products.order.remove');
+    Route::put('products/{product}/restore', [ProductController::class, 'restore'])->name('products.restore')->withTrashed();
+
     //Categories
     Route::resource('categories', CategoryController::class);
 
