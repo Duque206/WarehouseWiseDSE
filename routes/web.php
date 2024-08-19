@@ -47,9 +47,13 @@ Route::middleware('auth')->group(function () {
     Route::post('products/{product}/removeFromOrder', [ProductController::class, 'removeFromOrder'])->name('products.order.remove');
     Route::put('products/{product}/restore', [ProductController::class, 'restore'])->name('products.restore')->withTrashed();
 
+    
+    //Users
+    Route::resource('users', UserController::class);
+
     //Categories
     Route::resource('categories', CategoryController::class);
 
-});
+    });
 
 require __DIR__.'/auth.php';
