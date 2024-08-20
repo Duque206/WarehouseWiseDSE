@@ -28,7 +28,7 @@ El proyecto está siendo gestionado bajo el uso de [Trello](https://trello.com/b
 ---
 
 ### **Link de PDF**
-El archivo PDF se encuentra en el siguiente [Enlace.](https://www.canva.com/design/DAFwuXUHmFA/DMVeSWB0EXdTnJB2glS-Dw/edit?utm_content=DAFwuXUHmFA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+El archivo PDF se encuentra en el siguiente [Enlace.](https://drive.google.com/file/d/1zqgo5Pew9Gi1hk0FAlNX11rE1076jdTf/view?usp=sharing)
 
 ---
 
