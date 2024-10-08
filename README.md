@@ -37,6 +37,16 @@ Los MockUps se encuentran en el siguiente [Enlace](https://www.figma.com/design/
 
 ---
 
+### **Link Manual de usuario**
+El manual de usuario se encuentra en el siguiente [Enlace](https://drive.google.com/file/d/1rPJ8QET9AyA34-bg-F3Y2g3NAs2TEyoF/view?usp=sharing)
+
+---
+
+### **Link Manual tecnico**
+El manual tecnico se encuentran en el siguiente [Enlace](https://drive.google.com/file/d/12MPzdWNorQVBjJPuLvqEFrcapJXQQnu9/view?usp=sharing)
+
+---
+
 ### **Licencia Creative Commons**
 
 Attribution-NonCommercial-NoDerivatives (by-nc-nd)
